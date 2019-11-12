@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* .portrait{
+  width: 20em;
+  height: 25em;
+  margin-bottom: 2em;
+}
+
+a{
+  margin: 2em;
+}
+
+.pageButtons{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.aboutBody{
+  width: 300px;
+} */
